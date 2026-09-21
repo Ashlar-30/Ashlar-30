@@ -1,7 +1,5 @@
 ### Hi, I'm Ashwin
 
-MSc Computer Science student at Trinity College Dublin.
-
 Most of my work so far has been optimisation. Lately that's been QAOA on GPU simulators, with every answer checked against a classical solver. I've also worked on drug safety statistics, looking for risky three-drug combinations in public FDA reports.
 
 **Projects**
