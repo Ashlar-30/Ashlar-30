@@ -1,6 +1,6 @@
 ### Hi, I'm Ashwin
 
-Most of my work so far has been machine learning (knowledge graph) and optimization. Lately that's been QAOA on GPU simulators, with every answer checked against a classical solver. I've also worked on drug safety statistics, looking for risky three-drug combinations in public FDA reports.
+Most of my work so far has been ML/AI and optimization. Lately that's been QAOA on GPU simulators, with every answer checked against a classical solver. I've also worked on drug safety statistics, looking for risky three-drug combinations in public FDA reports.
 
 **Projects**
 
